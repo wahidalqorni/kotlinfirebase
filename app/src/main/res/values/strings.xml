@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kotlin Notif Test</string>
+    <string name="msg_token_fmt">Kotlin Notif Test</string>
+</resources>

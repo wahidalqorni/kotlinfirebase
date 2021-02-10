@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "755516305208",
+    "project_id": "kotlin-notif-test",
+    "storage_bucket": "kotlin-notif-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755516305208:android:77818402ea6ded93671bcd",
+        "android_client_info": {
+          "package_name": "com.mwahidalqorni.kotlinnotiftest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755516305208-d43s0qopom846jssdm6q32gtgauu2j7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvDhnK0GCsTwcQ6fUczevAwq2EVXr5SPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755516305208-d43s0qopom846jssdm6q32gtgauu2j7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
